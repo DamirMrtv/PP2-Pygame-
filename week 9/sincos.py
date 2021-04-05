@@ -8,8 +8,6 @@ screen = pygame.display.set_mode(size)
 pygame.display.set_caption("Week 9,TSIS 7")
 font = pygame.font.SysFont('times-new-roman', 20)
 
-
-
 showSine = True
 showCosine = True
 FPS = 160
